@@ -1,0 +1,12 @@
+#liga_led_btn, #desliga_led_btn {
+	height: 200px;
+	font-size: 40px;
+}
+
+#lampImageOff, #lampImageOn {
+	width: 100px;
+}
+
+#li_led_txt, #li_ldr_txt {
+	font-size: 25px;
+}
