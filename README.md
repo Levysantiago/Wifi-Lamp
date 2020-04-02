@@ -17,7 +17,7 @@ To make this project I used the following components and softwares:
 ### Hardware configuration
 
 <p align="center">
-  <img src="scheme.png" alt="cacau project sketch banner">
+  <img src="scheme.png" alt="hardware sketch banner">
 </p>
 
 ### Installing dependences
