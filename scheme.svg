@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='6.79205in' height='4.46339in' viewBox='0 0 489.027 321.364' >
+<g partID='854134220'><g transform='translate(356.136,0)' ><g transform="matrix(1, 0, 0, 1, 44.6631, 162.396)">
+ <g  id="breadboard">
+  <g  gorn="0.1.0.0.0">
+   <g  gorn="0.1.0.0.0.0" id="connector0pin">
+    <rect  x="9.85319" y="66.4522" fill="none" height="0.718004" width="2.09858"/>
+   </g>
+   <g  gorn="0.1.0.0.0.1" id="connector1pin">
+    <rect  x="16.8735" y="66.4522" fill="none" height="0.718004" width="2.10053"/>
+   </g>
+   <g  gorn="0.1.0.0.0.2" id="connector0leg">
+    <path  fill="#8C8C8C" d="M10.9025,68.1696c-0.804521,0,-1.45691,-0.665298,-1.45691,-1.48573L9.44557,42.2051c0,-0.820434,0.652394,-1.48573,1.45691,-1.48573s1.45691,0.665298,1.45691,1.48573l0,24.4788C12.3594,67.5043,11.707,68.1696,10.9025,68.1696z"/>
+   </g>
+   <g  gorn="0.1.0.0.0.3" id="connector1leg">
+    <path  fill="#8C8C8C" d="M17.9247,68.1696c-0.804521,0,-1.45691,-0.665298,-1.45691,-1.48573L16.4678,42.2051c0,-0.820434,0.652394,-1.48573,1.45691,-1.48573s1.45691,0.665298,1.45691,1.48573l0,24.4788C19.3816,67.5043,18.7293,68.1696,17.9247,68.1696z"/>
+   </g>
+   <g >
+    <rect  x="9.85319" y="32.4325" fill="#8C8C8C" height="9.77262" width="2.09663"/>
+   </g>
+   <g >
+    <path  fill="#8C8C8C" d="M18.974,42.2051c0,-1.1675,-1.03759,-2.09236,-2.03715,-2.97445c-0.405674,-0.363975,-1.16826,-0.996455,-1.16826,-1.41711l0,-5.44072l-2.10833,0l0,5.74801c0,1.05413,0.923493,1.8686,1.8977,2.73279c0.431028,0.374914,1.31551,1.24308,1.31551,1.7612"/>
+   </g>
+   <g  gorn="0.1.0.0.0.6" id="light">
+    <g >
+     <path  fill="#FCC038" d="M13.6525,-161.302c-27.8901,0.696126,-55.195,23.6683,-56.9504,52.6072c-1.85284,30.3312,23.1117,35.7013,29.9379,64.143c3.02305,12.4308,1.85284,24.6628,2.24291,37.0936L13.6525,-7.45849L13.6525,-161.302z"/>
+     <path  fill="#FFE91D" d="M13.8475,-161.302c27.8901,0.696126,55.195,23.6683,56.9504,52.6072c1.85284,30.3312,-23.1117,35.7013,-29.9379,64.143C37.7394,-32.0218,38.9096,-19.8893,38.5195,-7.45849L13.8475,-7.45849L13.8475,-161.302z"/>
+    </g>
+    <g >
+     <g >
+      <path  fill="#8E8E8E" d="M-7.41135,22.1766l0,19.7899c0,6.66292,6.63121,12.033,14.7252,12.033l12.4823,0c8.09397,0,14.7252,-5.37012,14.7252,-12.033L34.5213,22.1766L-7.41135,22.1766z"/>
+      <path  fill="#656565" d="M13.4574,22.1766L-7.41135,22.1766l0,19.7899c0,6.66292,6.63121,12.033,14.7252,12.033l6.24114,0L13.555,22.1766z"/>
+     </g>
+     <g >
+      <rect  x="-7.41135" y="22.1766" fill="#747474" height="16.0109" width="41.9326"/>
+      <rect  x="-7.41135" y="22.1766" fill="#4B4B4B" height="16.0109" width="20.8688"/>
+     </g>
+     <g >
+      <path  fill="#8E8E8E" d="M-15.4078,-1.4917l0,19.7899c0,6.66292,9.16667,12.033,20.4787,12.033L22.4291,30.3312c11.3121,0,20.4787,-5.37012,20.4787,-12.033L42.9078,-1.4917L-15.4078,-1.4917z"/>
+      <path  fill="#656565" d="M13.4574,-1.4917l-28.9628,0l0,19.7899c0,6.66292,9.16667,12.033,20.4787,12.033l8.48404,0L13.4574,-1.4917z"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</g>
+</g></g><g partID='854144820'><line stroke-linecap='round' stroke='#1b5bb3' x1='73.2938' y1='185.897' x2='69.6204' y2='206.167' stroke-width='3.2' /><line stroke-linecap='round' stroke='#418dd9' x1='73.2938' y1='185.897' x2='69.6204' y2='206.167' stroke-width='1.6' /></g><g partID='854144730'><line stroke-linecap='round' stroke='#1b5bb3' x1='166.602' y1='185.897' x2='73.2938' y2='185.897' stroke-width='3.2' /><line stroke-linecap='round' stroke='#418dd9' x1='166.602' y1='185.897' x2='73.2938' y2='185.897' stroke-width='1.6' /></g><g partID='854144640'><line stroke-linecap='round' stroke='#1b5bb3' x1='166.602' y1='257.957' x2='166.602' y2='185.897' stroke-width='3.2' /><line stroke-linecap='round' stroke='#418dd9' x1='166.602' y1='257.957' x2='166.602' y2='185.897' stroke-width='1.6' /></g><g partID='854134850'><line stroke-linecap='round' stroke='#1b5bb3' x1='202.723' y1='258.006' x2='166.602' y2='257.957' stroke-width='3.2' /><line stroke-linecap='round' stroke='#418dd9' x1='202.723' y1='258.006' x2='166.602' y2='257.957' stroke-width='1.6' /></g><g partID='854134920'><line stroke-linecap='round' stroke='#8c0000' x1='202.723' y1='265.207' x2='166.602' y2='265.348' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='202.723' y1='265.207' x2='166.602' y2='265.348' stroke-width='1.6' /></g><g partID='854134990'><line stroke-linecap='round' stroke='#8c0000' x1='166.602' y1='265.348' x2='166.602' y2='293.987' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='166.602' y1='265.348' x2='166.602' y2='293.987' stroke-width='1.6' /></g><g partID='854144500'><line stroke-linecap='round' stroke='#8c0000' x1='166.602' y1='293.987' x2='94.5423' y2='293.987' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='166.602' y1='293.987' x2='94.5423' y2='293.987' stroke-width='1.6' /></g><g partID='854144570'><line stroke-linecap='round' stroke='#8c0000' x1='94.5423' y1='293.987' x2='90.4037' y2='315.607' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='94.5423' y1='293.987' x2='90.4037' y2='315.607' stroke-width='1.6' /></g><g partID='854144410'><line stroke-linecap='round' stroke='#000000' x1='180.922' y1='272.277' x2='180.922' y2='315.698' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='180.922' y1='272.277' x2='180.922' y2='315.698' stroke-width='1.6' /></g><g partID='854144320'><line stroke-linecap='round' stroke='#000000' x1='180.922' y1='315.698' x2='96.1629' y2='315.607' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='180.922' y1='315.698' x2='96.1629' y2='315.607' stroke-width='1.6' /></g><g partID='854135060'><line stroke-linecap='round' stroke='#000000' x1='202.723' y1='272.407' x2='180.922' y2='272.277' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='202.723' y1='272.407' x2='180.922' y2='272.277' stroke-width='1.6' /></g><g partID='854141410'><line stroke-linecap='round' stroke='#8c0000' x1='411.422' y1='257.957' x2='283.07' y2='258.075' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='411.422' y1='257.957' x2='283.07' y2='258.075' stroke-width='1.6' /></g><g partID='854135320'><line stroke-linecap='round' stroke='#8c0000' x1='411.702' y1='229.207' x2='411.422' y2='257.957' stroke-width='3.2' /><line stroke-linecap='round' stroke='#cc1414' x1='411.702' y1='229.207' x2='411.422' y2='257.957' stroke-width='1.6' /></g><g partID='854141380'><line stroke-linecap='round' stroke='#000000' x1='485.791' y1='270.429' x2='283.102' y2='272.4' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='485.791' y1='270.429' x2='283.102' y2='272.4' stroke-width='1.6' /></g><g partID='854141480'><line stroke-linecap='round' stroke='#000000' x1='485.791' y1='259.343' x2='418.813' y2='257.957' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='485.791' y1='259.343' x2='418.813' y2='257.957' stroke-width='1.6' /></g><g partID='854141510'><line stroke-linecap='round' stroke='#000000' x1='418.813' y1='257.957' x2='418.723' y2='229.207' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='418.813' y1='257.957' x2='418.723' y2='229.207' stroke-width='1.6' /></g></svg>
